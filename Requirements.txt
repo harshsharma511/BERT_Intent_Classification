@@ -1,0 +1,59 @@
+Requirements
+
+Modules Required-
+
+1. TensorFlow
+To install TensorFlow on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install tensorflow
+
+
+2. TQDM
+To install TQDM on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install tqdm
+
+
+3. NLTK
+To install NLTK on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install nltk
+
+4. BERT
+To install BERT on Jupyter Notebook run the following command Jupyter Notebook
+ a. !pip3 install bert
+    install_requires=['tensorflow==2.3.0', 'bert-for-tf2==0.14.6', 'py-params==0.9.7','params-flow==0.8.2', 'sentencepiece==0.1.91', 'bert-tensorflow']
+
+
+Other Basic Libraries required for this project-
+
+1. Numpy 
+import numpy as np
+(!pip3 install numpy)
+
+2.Pandas
+import pandas as pd
+(!pip3 install pandas) 
+
+3. os
+import os
+
+4. math
+import math
+
+5. datetime
+import datetime
+
+6.
+
+random
+import random
+
+3. json
+import json
+
+4.pickle 
+import pickle
+
+5.warnings
+import warnings 
+
+
+Note - If any issue occurs - Please 'Restart and Clear Output' in kernel after installing all the libraries and then run each cell.
