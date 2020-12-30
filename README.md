@@ -7,4 +7,4 @@ Steps to run this project-
 4. Check the requirements.txt file to install the modules used in this project.
 5. Run Bert_Harsh.ipynb file in your Jupyter Notebook.
 
-Note- In case of problem/issue Check "Bert Harsh.html" for reference. 
+Note- In case of problem/issue Check "Bert_Harsh.html" for reference. 
